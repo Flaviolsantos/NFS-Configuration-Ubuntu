@@ -2,6 +2,7 @@
 
 ## Basic NFS Configurations 
 ☁️**AWS**
+
 👉1 VPC (default VPC is enough)
 👉2 Intances (1 Server 1 Clients)
 👉2 Elastic IPs (1 for each one of the Instances)
