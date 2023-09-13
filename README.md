@@ -11,7 +11,7 @@
 
 ▶️ **Server**
 
-◽First step do make its to update and upgrade your machine ➡️ `apt update && aptupgrade ` 
+◽First step do make its to update and upgrade your machine ➡️ `apt update && apt upgrade ` 
 
 ◽Install the NFS `apt install nfs-kernel-server`
 
